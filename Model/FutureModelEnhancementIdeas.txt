@@ -1,0 +1,11 @@
+1)	I am using only body, try including subject. 
+2)	Try word-vec and build deep learning model with CNNs. 
+3)	Try word-vec and build deep learning model with RNN or LSTM. https://blog.statsbot.co/text-classifier-algorithms-in-machine-learning-acc115293278
+
+
+UI: 
+Create new filter dynamically from UI. 
+
+References:
+http://scikit-learn.org/stable/modules/feature_extraction.html
+https://www.analyticsvidhya.com/blog/2015/10/6-practices-enhance-performance-text-classification-model/
